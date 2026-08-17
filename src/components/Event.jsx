@@ -2,8 +2,8 @@
 
 import { useEffect, useState } from "react";
 import weddingData from "../data/weddingData";
-import AkadImage from "../assets/Akad.png";
-import ResepsiImage from "../assets/Resepsi.png";
+import AkadImage from "../assets/akad.png";
+import ResepsiImage from "../assets/resepsi.png";
 
 const padTime = (value) => String(value).padStart(2, "0");
 
